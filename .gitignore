@@ -131,3 +131,4 @@ dist
 
 coverage
 report-APITest
+.mocharc.js
